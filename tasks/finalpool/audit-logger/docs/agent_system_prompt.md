@@ -1,5 +1,6 @@
-from unittest import TestCase
+# Agent System Prompt
 
-class TestAuditLogger(TestCase):
-    """Test suite for audit-logger module"""
-    pass
+## General Requirements
+Please complete the implementation for audit-logger in a beautiful way!
+## 系统提示
+请实现audit-logger的相关功能
